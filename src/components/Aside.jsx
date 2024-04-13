@@ -11,7 +11,7 @@ import {
 
 const Aside = () => {
   return (
-    <aside className="flex flex-col justify-between pl-1  h-[93vh] w-[60px] bg-gray-900">
+    <aside className="flex flex-col justify-between pl-1  h-[93vh] w-14 bg-gray-900">
       <div className="gap-3 ">
         <img className="h-[30px] m-1 mt-4 cursor-pointer hover:opacity-10" src={msg_img} alt="" />
 
